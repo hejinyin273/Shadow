@@ -41,7 +41,7 @@ public class SamplePluginManager extends FastPluginManager {
      */
     @Override
     public String getAbi() {
-        return "";
+        return "arm64-v8a";
     }
 
     /**

@@ -1,6 +1,7 @@
 include ':plugin-main-lib'
 include ':plugin-normal-apk'//把plugin-main-lib编成apk
 include ':plugin-shadow-apk'//把plugin-main-lib编成Shadow插件
+include ':CubeController'
 
 include ':sample-runtime'
 include ':sample-loader'
